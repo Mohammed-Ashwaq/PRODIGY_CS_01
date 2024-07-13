@@ -1,6 +1,4 @@
-Sure, here is the README file with the provided code included and formatted using Markdown syntax:
 
----
 
 # Caesar Cipher Text Encryption and Decryption Tool
 
@@ -18,7 +16,6 @@ Sure, here is the README file with the provided code included and formatted usin
    - [Repeat Function](#repeat-function)
 7. [Notes](#notes)
 8. [License](#license)
-9. [Contact](#contact)
 
 ## Overview
 This program is a simple text-based tool for encrypting and decrypting messages using the Caesar cipher technique. The encryption and decryption process is done by shifting the letters of the message by a specified number of positions.
@@ -159,9 +156,3 @@ This function repeatedly asks the user if they want to encrypt or decrypt anothe
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or issues, please contact [Your Name] at [Your Email].
-
----
-
-Ensure the code is enclosed in triple backticks (\```) to format it correctly in the README file.
